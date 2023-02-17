@@ -1,5 +1,5 @@
 public class Bank {
- static int dolg = 700;
+ static int dolg = 7000;
     static void payment(int  a) {
         dolg -= a;
         if(dolg <= 0) {
